@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "Radio Swiss Jazz",
+     "streamURL": "http://www.radioswissjazz.ch/live/aacp.m3u",
+     "imageURL": "http://www.radioswissjazz.ch/social-media/rsj-web.png",
+     "desc": "Jazz, soul and blues around the clock",
+     "longDesc": "Radio Swiss Jazz is the perfect companion at any time of the day. Swinging standards from the Great American songbook and driving jazz beads of innovative bebop instrumentalists are broadcast around the clock without advertising and moderation. Recordings of soul-related soul and blues music also provide a varied listening experience. Radio Swiss Jazz also promotes local musicians: around one third of the songs are made by artists from Switzerland. Pure music, to relax, to discover and to enjoy."
+     },
+     {
+     "name": "Rockstep Radio",
+     "streamURL": "http://us.rockstepradio.com:8000/RockstepRadio.m3u",
+     "imageURL": "http://rockstepradio.com/facebook_thumb.jpg",
+     "desc": "Music for Swing Dancers",
+     "longDesc": "We're the radio station that plays jazz swing from the 30s, 40s and beyond for Lindy Hoppers, Jitterbugs, Balboa and Shag dancers."
+     },
+     {
+     "name": "BeatBasement",
+     "streamURL": "http://serv1.beatbasement.com:9622/listen.pls",
+     "imageURL": "http://cdn-radiotime-logos.tunein.com/s1968q.png",
+     "desc": "Where Hip Hop Really Lives",
+     "longDesc": "Independent Hip-Hop"
+     },
+     {
+     "name": "WeFunk Radio",
+     "streamURL": "http://www.wefunkradio.com/play/radio.mp3",
+     "imageURL": "http://cache.wefunkradio.com/images-small/outside/design/wefunk-logo-3d-vector2.png",
+     "desc": "Strictly the finest in hip hop, funk & soul",
+     "longDesc": "Hip-hop/funk show broadcasting from Montreal. Includes underground hip-hop, live MCs, classic funk and rare grooves. Large audio archive on their site."
+     },
+     {
+     "name": "Groove Salad",
+     "streamURL": "https://somafm.com/groovesalad.pls",
+     "imageURL": "http://api.somafm.com/img/groovesalad120.png",
+     "desc": "A nicely chilled plate of ambient beats and grooves",
+     "longDesc": "Groove Salad by SomaFM. A nicely chilled plate of ambient/downtempo beats and grooves"
+     },
+     {
+     "name": "Radio NOVA",
+     "streamURL": "http://stream.radioreklama.bg/nova128.m3u",
+     "imageURL": "http://media.metacast.eu/pictures/04_2014/dMVoCZ4sc6PYzK2LGhAD-45.jpg",
+     "desc": "Radio NOVA – 'Just Listen'",
+     "longDesc": "Radio NOVA is the first radio in Bulgaria broadcasting the best and latest selection of music in the field of electronic culture."
+     },
+     {
+     "name": "8Radio",
+     "streamURL": "http://8radio.serverroom.net/listen.pls",
+     "imageURL": "http://8radio.com/wp-content/uploads/2012/09/8radio.com-Profile-Pic-Updated3-e1444064213348.jpg",
+     "desc": "Playing the music we like.",
+     "longDesc": "8Radio.com - Playing the very best new and classic Alternative music we like online 24/7!"
+     },
+     {
+     "name": "Grunge90",
+     "streamURL": "http://streaming.radionomy.com/Grunge90?lang=en-US%2cen%3bq%3d0.5",
+     "imageURL": "https://i3.radionomy.com/radios/400/d72aa16d-3153-497e-8341-25f5e63164a4.jpg",
+     "desc": "The best of grunge from yesterday to today. Sprinkled with metal.",
+     "longDesc": "The best of grunge from yesterday to today. Sprinkled with metal. Metal, Nu Metal, Grunge, Hard Rock, Rock"
+     }
+    ]
+}

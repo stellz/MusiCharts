@@ -1,0 +1,102 @@
+PODS:
+  - Action (3.9.1):
+    - RxCocoa (~> 4.3)
+    - RxSwift (~> 4.3)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Differentiator (3.1.0)
+  - Fabric (1.9.0)
+  - MarqueeLabel/Swift (3.2.0)
+  - ReachabilitySwift (4.3.0)
+  - RxAtomic (4.4.0)
+  - RxBlocking (4.4.0):
+    - RxAtomic (~> 4.4)
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxReachability (0.1.7):
+    - ReachabilitySwift (~> 4.3.0)
+    - RxCocoa (~> 4)
+    - RxSwift (~> 4)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - RxTest (4.4.0):
+    - RxAtomic (~> 4.4)
+    - RxSwift (~> 4.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - Spring (1.0.6)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftLint (0.29.1)
+
+DEPENDENCIES:
+  - Action
+  - Crashlytics
+  - Fabric
+  - MarqueeLabel/Swift
+  - RxBlocking
+  - RxCocoa
+  - RxDataSources
+  - RxReachability
+  - RxSwift
+  - RxTest
+  - SDWebImage
+  - Spring (from `https://github.com/strawb3rryx7/Spring.git`)
+  - SwiftKeychainWrapper
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Action
+    - Crashlytics
+    - Differentiator
+    - Fabric
+    - MarqueeLabel
+    - ReachabilitySwift
+    - RxAtomic
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxReachability
+    - RxSwift
+    - RxTest
+    - SDWebImage
+    - SwiftKeychainWrapper
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/strawb3rryx7/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 29e652fb77f9a4038fda4dbddd4e4de0c0599101
+    :git: https://github.com/strawb3rryx7/Spring.git
+
+SPEC CHECKSUMS:
+  Action: 2f461c203c480b17aa99b3bb166e4329ecff6908
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  MarqueeLabel: 440a502b91a9179bd98f9fff00ba1150650a1c0e
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxBlocking: 138ad53217434444d6eeeb4fb406a45431d92e31
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxReachability: 899637fce53e076465126e58d71ad835fce17924
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  RxTest: 19d03286bdc0a3aaea5d61d4cde31fdf4bb8a5ba
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftLint: 6772320e40b52049053a518c17db9b0634a0b45a
+
+PODFILE CHECKSUM: 209522edc934d12c28ed6269bbeb3cc77bccd22d
+
+COCOAPODS: 1.6.1
